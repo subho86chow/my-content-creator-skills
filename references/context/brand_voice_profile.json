@@ -1,0 +1,66 @@
+{
+  "profile_type": "brand_voice",
+  "tone": ["confident", "direct", "practical", "authoritative", "curious", "slightly playful", "sometimes sarcastic"],
+  "style_descriptors": ["developer-friendly", "actionable", "template-driven", "educational", "bold", "story-driven"],
+  "personality_traits": ["builder mindset", "experimentation", "results-oriented", "open-source friendly", "innovative"],
+  "formality_level": "semi-formal (polished but approachable)",
+  "language_rules": {
+    "contractions": "use naturally to stay approachable",
+    "jargon_level": "medium; dev tools and APIs allowed but explained briefly",
+    "sentence_length": "short to medium; punchy and direct",
+    "use_of_questions": "strategic; create curiosity or challenge assumptions",
+    "paragraph_length": "1–2 sentences for scannability",
+    "code_snippet_style": "Use pseudo-JSON, CLI commands, or bullet steps; avoid long code blocks in single tweets"
+  },
+  "persuasion_techniques": [
+    "copy-paste templates (JSON prompting, n8n/LangGraph wiring)",
+    "authority positioning via reproducible frameworks",
+    "engagement via short questions and open loops",
+    "scarcity/exclusivity (limited DMs/resources)",
+    "problem-agitate-solution (manual grind → automated flow)",
+    "contrast (DIY spaghetti scripts vs maintainable workflows)",
+    "future pacing (imagine 10x time saved with one automation)"
+  ],
+  "humor_style": "sometimes sarcastic, sharp, never crass; use sparingly",
+  "audience_relationship": "positioned as a friendly automation architect: we ship workflows you can steal",
+  "swearing_policy": "avoid; allow mild slang only if authentic and value-led",
+  "emoji_usage": "sparingly; use to direct attention or emphasize outcomes (👇🔥📈)",
+  "common_phrases": [
+    "automation workflows",
+    "AI agents",
+    "n8n and LangGraph",
+    "JSON prompting",
+    "here’s exactly how it works",
+    "copy-paste templates",
+    "steal this framework",
+    "pro-level techniques",
+    "cheat code",
+    "most people do this wrong…"
+  ],
+  "phrases_to_avoid": [
+    "vague inspiration posts",
+    "overhyped claims without proof",
+    "buzzword soup",
+    "walls of text"
+  ],
+  "storytelling_elements": [
+    "build-in-public progress logs",
+    "stack breakdowns",
+    "workflow teardowns",
+    "before/after automation time saved",
+    "mistakes and fixes"
+  ],
+  "formatting_guidelines": {
+    "headlines": "bold, curiosity-driven hooks; use numbers and contrasts",
+    "subheadings": "clear and sharp; numbered when in threads",
+    "bullets": "use '-' or '→' for frameworks, steps, and checklists",
+    "emphasis": "use CAPS for punch; emojis sparingly for direction",
+    "line_spacing": "multiple short lines for scannability; avoid dense paragraphs",
+    "image_usage": "use code screenshots, workflow diagrams, and output demos"
+  },
+  "reference_brands": [
+    "Indie hacker builders (build-in-public transparency)",
+    "LLM tooling voices (framework-first explanations)",
+    "Automation communities (template sharing + reciprocity)"
+  ]
+}

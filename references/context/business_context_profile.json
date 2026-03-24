@@ -1,0 +1,139 @@
+{
+  "founder_name": "Shubhajit Chowdhury",
+  "industry": "AI Automation & Workflow, Smart AI dashboards",
+  "business_model": "AI automation services + developer-grade systems and blueprints for reliable outcomes.",
+  "core_offers": [
+    "Automation audits (systems, dataflows, reliability, ROI)",
+    "Workflow design & orchestration (Zapier, n8n, Make, Airflow)",
+    "AI assistant and agent development (FastAPI, tools, function calling)",
+    "Smart AI dashboards (custom monitoring, alerting, observability)",
+    "Agent frameworks & SDKs (starter kits, templates, components)",
+    "Reliability, monitoring & observability (SLA, alerts, dashboards)"
+  ],
+  "offer_tiers": {
+    "free": [
+      "Open-source templates and starter snippets",
+      "Twitter content (blueprints, teardowns, reliability patterns)",
+      "Automation audit checklist (public resource)"
+    ],
+    "low_ticket": [
+      "Automation playbooks (Notion/PDF)",
+      "Prompt libraries and reusable components"
+    ],
+    "mid_ticket": [
+      "Agent starter pack + integrations bundle",
+      "Workflow automation bundle (Zapier/n8n/Make)"
+    ],
+    "high_ticket": [
+      "Custom automation systems with maintenance SLAs",
+      "Internal tools & end-to-end workflow builds"
+    ],
+    "custom": [
+      "Enterprise integrations and governance",
+      "Dedicated automation enablement for teams"
+    ]
+  },
+  "revenue_streams": [
+    "AI automation services",
+    "Consulting retainers & maintenance",
+    "Digital products (templates, SDKs, guides, Smart AI dashboards)"
+  ],
+  "target_markets": [
+    "SaaS startups & growth teams",
+    "Solo founders and indie hackers",
+    "Agencies offering automation",
+    "Operations/RevOps teams",
+    "Content creators scaling workflows"
+  ],
+  "customer_segments": [
+    "Technical founders",
+    "Ops/RevOps leaders",
+    "Indie hackers and developers",
+    "Agency owners",
+    "Product managers"
+  ],
+  "mission_statement": "Build resilient automation systems that remove busywork and unlock leverage with measurable outcomes.",
+  "vision_statement": "Become the trusted systems partner for builders and teams through battle-tested automation patterns and tools.",
+  "core_values": [
+    "Reliability over novelty",
+    "Outcome-first engineering",
+    "Simplicity and composability",
+    "Clear, pragmatic documentation",
+    "Privacy & security by default",
+    "Builder empathy and transparency"
+  ],
+  "unique_selling_proposition": "We ship resilient automation and agents that deliver measurable outcomes—more throughput, fewer failures.",
+  "competitive_advantages": [
+    "Developer-grade systems thinking and observability",
+    "Deep API integrations across heterogeneous platforms",
+    "Proof-of-work demos and fast iteration cycles",
+    "Productized blueprints with maintenance paths",
+    "Education-first content that accelerates adoption"
+  ],
+  "competitors": [
+    "Generalist automation freelancers",
+    "Low-code-only consultants",
+    "Hype-first AI agencies lacking ops rigor"
+  ],
+  "key_partnerships": [
+    "OpenAI, Anthropic, OpenRouter (LLM tooling)",
+    "Zapier, n8n, Make (workflow platforms)",
+    "LangChain/LangGraph (agent frameworks)",
+    "Postgres, Redis, Pinecone (data & storage)",
+    "Monitoring/analytics providers"
+  ],
+  "distribution_channels": [
+    "Twitter/X (developer-centric content and demos)",
+    "GitHub (repos, starters, examples)",
+    "Website (docs and offers)",
+    "Newsletter (updates, audits, strategies)",
+    "Workshops & live demos"
+  ],
+  "tech_stack": [
+    "Python (FastAPI), Node.js",
+    "LangChain/LangGraph",
+    "Redis, Postgres",
+    "Zapier, n8n, Make",
+    "Docker, Vercel",
+    "OpenAI/Anthropic APIs",
+    "Observability (Prometheus/Grafana or equivalents)"
+  ],
+  "team_structure": {
+    "leadership": ["Founder/Automation Architect (Shubhajit Chowdhury)"],
+    "marketing": ["Founder-led content + dev evangelism"],
+    "product": ["Systems builder + contract integrators"],
+    "sales": ["Consultative sales with proof-of-work demos"],
+    "support": ["SLA-backed maintenance and support"],
+    "ops": ["CI/CD, monitoring, incident response"]
+  },
+  "current_challenges": [
+    "Balancing reliability with rapid delivery timelines",
+    "Quantifying ROI for non-technical stakeholders",
+    "Standardizing patterns across heterogeneous tools",
+    "Scaling maintenance while shipping new systems"
+  ],
+  "key_metrics": [
+    "Automations deployed per month",
+    "Mean time to recovery (MTTR)",
+    "SLA adherence rate",
+    "Hours saved per team",
+    "Content reach and engagement"
+  ],
+  "short_term_goals": [
+    "Publish 3 case-study demos with metrics",
+    "Release agent starter kits and checklists",
+    "Grow Twitter audience with developer-first content",
+    "Launch public automation audit resource"
+  ],
+  "long_term_goals": [
+    "Build a product line around automation tooling",
+    "Establish a training and enablement program",
+    "Become a trusted systems partner for teams"
+  ],
+  "brand_assets": {
+    "logo": "https://hypedesign.in/assets/img/logo/HypeDesign_logo.svg",
+    "typography": "Clear, developer-first sans-serif (readability and precision)",
+    "color_palette": "Dark neutrals with cyan accents (technical, reliable)",
+    "voice_guidelines": "Pragmatic, technical, transparent, outcome-driven"
+  }
+}

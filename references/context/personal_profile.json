@@ -1,0 +1,69 @@
+{
+  "profile_type": "personal_profile",
+  "full_name": "Shubhajit Chowdhury",
+  "nickname": "Subho",
+  "current_role": "Automation Developer & and AI Enthusiast",
+  "personal_brand_positioning": "AI automation builder helping developers and founders ship reliable workflow systems and prompt architectures.",
+  "backstory": {
+    "origin": "Started as a self-taught developer automating tedious workflows and documenting systems.",
+    "journey": "Built SaaS tools, prompt frameworks, and automation blueprints. Pivoted focus to helping builders and teams replace manual grind with reliable AI workflows.",
+    "milestones": [
+      "Over 4 years of professional development experience",
+      "Shipped multiple small automation products and toolkits",
+      "Designed SaaS tools like Leadscraper",
+      "Documented agent patterns and orchestration best practices"
+    ],
+    "lessons_learned": [
+      "Manual grind is the most expensive hidden tax",
+      "Reproducibility beats clever one-off scripts",
+      "Architecture and observability prevent silent failures",
+      "Small automations compound into big wins",
+      "Templates are useful if they’re documented and testable"
+    ]
+  },
+  "expertise": [
+    "Automation design (n8n, Zapier, LangGraph)",
+    "Prompt engineering (JSON/structured prompting)",
+    "LLM agent orchestration",
+    "Full-stack development (Django, React, Next.js, FastAPI)",
+    "Documentation, observability, and reliability patterns"
+  ],
+  "personal_values": [
+    "Excellence",
+    "Innovation",
+    "Outcome and time-saved thinking",
+    "Continuous growth",
+    "Helping builders operate like bigger teams",
+    "Transparency and authenticity"
+  ],
+  "content_pillars": [
+    "Automation teardowns and blueprints",
+    "Behind-the-scenes of orchestration and agents",
+    "Build-in-public logs and metrics",
+    "Actionable tips for developers and indie hackers",
+    "Open ended questions to spark engagement",
+    "Prompt engineering and reliability techniques"
+  ],
+  "audience_resonance": "Developers, indie hackers, and founders who want reliable automations that save time and compound outcomes.",
+  "tone": "Confident, slightly playful, authoritative, but still authentic and relatable.",
+  "content_preferences": {
+    "storytelling_depth": "Mix of punchy insights with occasional premium-level case breakdowns",
+    "preferred_formats": [
+      "Authority-driven Twitter posts",
+      "Teardown threads",
+      "Architecture diagrams and behind-the-scenes storytelling"
+    ],
+    "topics_to_avoid": [
+      "Monolithic code dumps without outcomes",
+      "Generic motivational fluff",
+      "Overly academic posts without practical context",
+      "Unexplained jargon"
+    ]
+  },
+  "goals_with_personal_brand": [
+    "Position myself as an automation developer and builder",
+    "Attract inbound users and clients for automation toolkits",
+    "Build trust through reproducible frameworks and transparent logs",
+    "Grow authority in developer and indie hacker communities"
+  ]
+}

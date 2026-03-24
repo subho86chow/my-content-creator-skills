@@ -1,0 +1,26 @@
+{
+  "profile_type": "neural_psychology_matrix",
+  "name": "neural_psychology_matrix",
+  "purpose": "Amplify automation content with psychological triggers that increase authority, urgency, and demand.",
+  "psychological_triggers": {
+    "scarcity": "Highlight exclusivity: limited beta slots, documented templates, production-ready frameworks.",
+    "social_proof": "Use demos, repos, and frameworks as proof until case studies arrive.",
+    "authority": "Position as specialist: automation developer who ships reliable systems.",
+    "curiosity": "Open loops with architecture teasers and manual vs automated comparisons.",
+    "reciprocity": "Offer free audits and prompt packs → leads to paid implementations.",
+    "contrast": "Show ROI/time-saved difference between manual work vs automated workflows.",
+    "commitment_consistency": "Encourage small actions (DM 'WORKFLOW') → lead to production projects.",
+    "novelty": "Fresh agent patterns, orchestration experiments → stand out as innovative builder.",
+    "transparency": "Share real numbers, failures, and progress logs to build credibility.",
+    "curation_authority": "Provide 'steal this' frameworks and checklists to anchor authority via reciprocity."
+  },
+  "application_rules": {
+    "frequency": "Blend 1-2 triggers per post.",
+    "variation": "Rotate triggers to avoid predictability.",
+    "integration": "Embed triggers into builder storytelling, not as gimmicks.",
+    "formula": "Hook → Pain/Curiosity → Automation Solution.",
+    "tone_alignment": "Maintain confident, authoritative, and slightly playful brand voice.",
+    "emoji_rule": "Prefer one directional emoji (👇) max to guide attention.",
+    "image_usage": "Use visuals (workflow diagrams, before/after outputs, logs) to reinforce triggers and engage the audience."
+  }
+}

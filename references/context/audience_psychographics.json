@@ -1,0 +1,161 @@
+{
+  "profile_type": "audience_psychographics",
+  "identity_roles": [
+    "Indie hacker",
+    "Automation developer",
+    "SaaS founder",
+    "Ops/RevOps specialist",
+    "Agency owner",
+    "No-code/low-code builder"
+  ],
+  "aspirations": [
+    "Automate repetitive work and reclaim 10+ hours/week",
+    "Ship reliable workflows that scale from day one",
+    "Build credibility through reproducible systems and open-source",
+    "Turn small automation wins into recurring revenue",
+    "Operate like a bigger team using AI agents",
+    "Document and share frameworks that attract opportunities"
+  ],
+  "emotional_drivers": [
+    "Desire to reduce manual grind and context switching",
+    "Relief from brittle prompts and one-off scripts",
+    "Satisfaction from clean architecture and reliable outputs",
+    "Excitement about compounding time savings",
+    "Confidence to share systems publicly",
+    "Motivation to build credible automation portfolios"
+  ],
+  "external_challenges": [
+    "Tools that don’t integrate cleanly (API mismatch, auth issues)",
+    "Unmaintainable automation scripts without documentation",
+    "Flaky prompts and inconsistent LLM outputs",
+    "No orchestration (jobs fail silently, retries missing)",
+    "Hard to justify ROI without metrics",
+    "Difficulty moving from prototypes to production"
+  ],
+  "internal_conflicts": [
+    "Uncertainty about best-practice architectures",
+    "Doubt about when to use agents vs workflows",
+    "Fear of shipping brittle automations that break",
+    "Overwhelm from too many tools and frameworks",
+    "Concern about security and data governance"
+  ],
+  "self_perceptions": [
+    "I’m a builder who can ship useful automations",
+    "My systems should be reliable and documented",
+    "I can save teams time with the right stack",
+    "I need examples and frameworks I can trust",
+    "I want to showcase results with clear metrics"
+  ],
+  "worldviews": [
+    "Automation compounds; small wins stack",
+    "Reproducibility beats ad-hoc hacks",
+    "Clear architecture > cleverness",
+    "Measured outcomes earn trust",
+    "Open sharing builds authority faster",
+    "Tools are means; systems are leverage"
+  ],
+  "belief_obstacles": [
+    "Automation is only for big teams",
+    "Agents are too complex to be practical",
+    "LLM outputs can’t be consistent",
+    "Workflows always break in production",
+    "It’s faster to do it manually"
+  ],
+  "information_sources": [
+    "Twitter threads from automation builders",
+    "YouTube (LLM prompting, agents, workflow orchestration)",
+    "Podcasts (SaaS ops, indie hacking, automation)",
+    "Docs and repos (LangChain/LangGraph, n8n, Zapier, Airflow)",
+    "Builder and indie hacker communities"
+  ],
+  "influencers_followed": [
+    "Andrej Karpathy",
+    "Yohein Nakajima",
+    "Simon Willison",
+    "LangChain / LangGraph contributors",
+    "n8n community maintainers"
+  ],
+  "community_engagement": [
+    "Active in builder/dev Twitter",
+    "Shares automations and prompt packs",
+    "Consumes architecture and reproducibility content",
+    "Looks for stack breakdowns and blueprints",
+    "Engages with proof-of-output posts"
+  ],
+  "platform_behaviors": [
+    "Scrolls Twitter for builder voices",
+    "Saves workflow diagrams and prompts",
+    "Reads teardown threads and architecture posts",
+    "Consumes reproducible blueprints",
+    "Comments selectively; DMs for audits or resources",
+    "Looking for credible system builders"
+  ],
+  "content_preferences": [
+    "Automation teardowns",
+    "Manual vs automated comparisons",
+    "Time-saved case studies",
+    "Prompt packs and workflow checklists",
+    "Behind-the-scenes of orchestration",
+    "Actionable steps and outputs"
+  ],
+  "status_signals": [
+    "Hours saved per week",
+    "Automations deployed to production",
+    "Open-source repos and stars",
+    "Screenshots of outputs and metrics",
+    "Collabs with automation communities"
+  ],
+  "words_and_phrases": [
+    "Automation",
+    "Workflow",
+    "Agents",
+    "JSON prompts",
+    "Stack",
+    "Orchestration",
+    "Reliability",
+    "Time saved",
+    "ROI",
+    "Production-ready"
+  ],
+  "trust_triggers": [
+    "Before/after automation demos",
+    "Clear reproducible frameworks",
+    "Screenshots of consistent outputs",
+    "Transparency in architecture and docs",
+    "Limited beta access to tools"
+  ],
+  "buying_emotions": [
+    "Excitement about regained time",
+    "Confidence in reliable outputs",
+    "Relief from manual tasks",
+    "Urgency to fix brittle workflows",
+    "Ambition to operate like a bigger team"
+  ],
+  "pain_aversion_patterns": [
+    "Avoid manual busywork",
+    "Avoid brittle prompts and flaky scripts",
+    "Avoid silent failures and missing retries",
+    "Avoid undocumented systems"
+  ],
+  "transformation_desires": [
+    "Go from manual grind → automated reliability",
+    "Move from ad-hoc scripts → orchestrated workflows",
+    "Turn scattered tools → cohesive stack",
+    "Stand out as a credible builder",
+    "Publish frameworks that others can reuse"
+  ],
+  "brand_interactions": [
+    "Requests automation audits",
+    "Engages with blueprint threads",
+    "Downloads prompt packs",
+    "Books consult calls after demos",
+    "Follows reproducibility-focused content consistently"
+  ],
+  "psychographic_segments": [
+    { "segment": "Indie Hackers", "description": "Automate operations and ship small profitable tools." },
+    { "segment": "SaaS Ops", "description": "Reduce manual tasks and ensure reliability with orchestration." },
+    { "segment": "Agency Owners", "description": "Deliver repeatable client value with automations and audits." },
+    { "segment": "Solo Builders", "description": "Leverage AI agents to operate like a team of many." },
+    { "segment": "No-code Automators", "description": "Combine n8n/Zapier with LLMs for practical outcomes." }
+  ]
+}

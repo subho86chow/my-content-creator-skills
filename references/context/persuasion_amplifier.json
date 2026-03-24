@@ -1,0 +1,22 @@
+{
+  "profile_type": "persuasion_amplifier",
+  "name": "persuasion_amplifier",
+  "purpose": "Maximize engagement by blending automation credibility with proven persuasion frameworks.",
+  "persuasion_principles": {
+    "problem_agitation_solution": "Expose costly manual grind and brittle scripts, intensify the pain, then present reliable automation frameworks.",
+    "future_pacing": "Help builders visualize time saved and reliability gains (e.g., 10+ hours/week reclaimed).",
+    "objection_prehandling": "Counter complexity fears by showing simple, documented workflows and measurable outcomes.",
+    "risk_reversal": "Showcase demos, audits, and limited beta access to reduce fear.",
+    "value_stacking": "Layer benefits: prompts + workflows + orchestration + metrics = leverage.",
+    "emotional_logic_blend": "Start with pain (manual tasks), follow with time-saved metrics and logs.",
+    "identity_alignment": "Frame automation as part of builder identity: serious builders ship reliable systems."
+  },
+  "application_rules": {
+    "layering": "Use 2-3 persuasion principles per post with automation framing.",
+    "sequencing": "Problem before solution, emotion before metrics.",
+    "engagement_technique": "hook > retain > reward",
+    "cadence": "Prefer short lines with rhythmic breaks; avoid dense paragraphs.",
+    "transparency": "Leverage open progress logs and teardown honesty to build trust.",
+    "adaptation": "Growth = bold claims; Authority = frameworks; Personal = build-in-public lessons."
+  }
+}

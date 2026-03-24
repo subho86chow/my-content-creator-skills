@@ -1,0 +1,66 @@
+{
+  "industry_focus": [
+    "Indie hackers",
+    "SaaS startups",
+    "Agencies and consultants",
+    "Operations and RevOps",
+    "No-code/low-code builders"
+  ],
+  "target_audience": {
+    "primary": {
+      "role": ["Developers", "Indie Hackers", "Agency Owners", "Ops/RevOps"],
+      "age_range": "22-40",
+      "goals": [
+        "Save 10+ hours/week with reliable automations",
+        "Ship production-ready workflows and agents",
+        "Document systems and share frameworks",
+        "Turn small automation wins into revenue"
+      ],
+      "pain_points": [
+        "Manual repetitive tasks eat time",
+        "Brittle prompts and inconsistent outputs",
+        "No orchestration for retries and logging",
+        "Too many tools, unclear architecture",
+        "Hard to prove ROI without metrics"
+      ]
+    },
+    "secondary": {
+      "role": ["Product Managers", "Technical Founders", "CTOs (small startups)", "No-code Builders"],
+      "age_range": "25-55",
+      "goals": [
+        "Automate operations and reduce costs",
+        "Integrate LLMs into existing processes",
+        "Standardize prompts and workflows",
+        "Increase reliability and observability"
+      ],
+      "pain_points": [
+        "Automation sprawl and maintenance",
+        "Security and data governance concerns",
+        "Vendor lock-in and integration friction",
+        "Lack of documentation and testability"
+      ]
+    }
+  },
+  "value_proposition": "We build reliable AI automations and workflow systems that turn manual grind into measured outcomes. Reproducible frameworks, documented prompts, and production-grade orchestration.",
+  "key_offers": [
+    "Automation Audits (stack, architecture, ROI)",
+    "Prompt Packs (JSON/structured prompting)",
+    "Workflow Blueprints (n8n/Zapier/LangGraph)",
+    "Agent Orchestration and Integration",
+    "Observability, retries, and logging setup",
+    "Documentation and reproducibility frameworks"
+  ],
+  "tone_of_voice": [
+    "Authoritative",
+    "Direct",
+    "Developer-friendly",
+    "Outcome-focused"
+  ],
+  "twitter_strategy_goals": [
+    "Position as an automation developer and builder",
+    "Educate on prompting, agents, and orchestration",
+    "Attract inbound leads through reproducible frameworks and proof",
+    "Build credibility through transparent logs and metrics",
+    "Grow audience of builders and operators"
+  ]
+}

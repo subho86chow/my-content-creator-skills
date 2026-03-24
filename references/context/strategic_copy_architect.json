@@ -1,0 +1,23 @@
+{
+  "profile_type": "strategic_copy_architect",
+  "name": "strategic_copy_architect",
+  "purpose": "Provide automation copy frameworks to position the profile as an authoritative, outcome-driven, and reliable workflow builder.",
+  "frameworks": {
+    "expert_breakdown": "Deconstruct LLM prompting, agents, and orchestration into actionable frameworks.",
+    "data_driven_authority": "Use time-saved metrics, reliability stats, and manual vs automated comparisons.",
+    "narrative_positioning": "Craft stories that highlight builder expertise, transformation, and reliability.",
+    "questions_as_hooks": "Use provocative questions to engage and lead into builder insights.",
+    "open_ended_questions": "Incorporate open-ended questions to encourage engagement and technical dialogue.",
+    "teaching_through_story": "Show build-in-public logs and teardown narratives as teaching tools.",
+    "thought_leadership": "Take contrarian stances (e.g., 'agents aren’t magic — architecture wins').",
+    "comparative_framework": "Contrast manual/adhoc approaches vs orchestrated/reproducible systems to highlight superiority.",
+    "scarcity_positioning": "Frame offers with limited beta access and implementation slots."
+  },
+  "application_rules": {
+    "authority_balance": "Be confident, technical-friendly, and direct — no downplaying expertise.",
+    "educational_weight": "Every post must deliver value (time-saved takeaways, frameworks, or insights).",
+    "signature_methods": "Use recurring proprietary terms/methods to reinforce automation services as the reliable authority.",
+    "list_cadence": "Prefer short, skimmable lists using '-' or '→'.",
+    "conversion_alignment": "Always tie insights back to time saved, reliability, and reproducible outcomes."
+  }
+}

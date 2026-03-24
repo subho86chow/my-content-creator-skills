@@ -1,0 +1,62 @@
+{
+  "profile_type": "platform_constraints",
+  "platform": "twitter",
+  "thread_rules": {
+    "max_tweets": 12,
+    "continuation_format": "Use '🧵' or '(1/…)' to indicate thread parts",
+    "thread_opener_style": "Strong hook or statement to grab attention. Use numbers, contrasts, or 'steal this' framing",
+    "thread_closer_style": "Summarize key point + CTA (e.g., 'Comment KEYWORD for the resource')"
+  },
+  "link_usage": {
+    "max_links_per_tweet": 1,
+    "preferred_format": "Use short, clean URLs",
+    "link_positioning": "Place towards the end of tweet",
+    "required": false
+  },
+  "hashtag_rules": {
+    "max_hashtags": 0,
+    "preference": "Avoid unless highly relevant"
+  },
+  "media_rules": {
+    "max_images": 4,
+    "gif_allowed": true,
+    "video_length_limit_seconds": 140,
+    "media_positioning": "Media should enhance main message, not replace it"
+  },
+  "formatting_rules": {
+    "line_breaks": "Use short lines for cadence and scannability; avoid walls of text",
+    "bullet_points": "Use '-' or '•'; prefer '→' for step lists",
+    "emphasis": "Use CAPS sparingly for emphasis",
+    "symbols": "Allowed (✓, →, ⚡, 👇) but don’t overuse",
+    "quotes": "Keep short and impactful",
+    "hooks": "Numeric, contrarian, or curiosity hooks perform best"
+  },
+  "emoji_usage": {
+    "allowed": true,
+    "placement": "Use for emphasis or tone, not filler",
+    "max_per_tweet": 5
+  },
+  "cta_guidelines": {
+    "style": "Clear, concise, action-oriented",
+    "mechanisms": [
+      "Comment keyword to receive link",
+      "DM keyword for audits",
+      "Like + comment to unlock resource"
+    ]
+  },
+  "prohibited_styles": [
+    "Overstuffed hashtags",
+    "Clickbait without value",
+    "Excessive emojis",
+    "Walls of text",
+    "Overly complex sentence structures"
+  ],
+  "best_practices": [
+    "Front-load value in first 100 characters",
+    "Use conversational tone",
+    "Break ideas into scannable chunks",
+    "Leverage storytelling, transparent progress, and examples",
+    "Mix authority, growth, personal, and entertaining content",
+    "Avoid hashtags; use clean formatting with line breaks"
+  ]
+}
